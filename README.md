@@ -1,4 +1,8 @@
-Este projeto foi desenvolvido com  React js.
+PrimeFlix
 
-para conferir, basta clicar no link
-https://primeflix-iota-topaz.vercel.app/
+Este projeto foi desenvolvido com React.js.
+
+Confira o projeto em funcionamento:
+
+🔗  https://primeflix-iota-topaz.vercel.app/
+
